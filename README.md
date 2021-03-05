@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="uploads/logo-faceuser.png "/>
+  <img src="uploads/logo-faceuser.png"/>
 </p>
 <p align="center">
   CRUD cadrastro de usuários
@@ -18,9 +18,21 @@
 ```
 ```
 - [x] ReactJS
+- [x] Bootstrap
 - [x] Axios
 - [x] Styled Components
 ```
+
+## Images
+<p align="center">
+  <img src="uploads/main-page.jpg"/>
+</p>
+<p align="center">
+  <img src="uploads/edit-page.jpg"/>
+</p>
+<p align="center">
+  <img src="uploads/register-page.jpg"/>
+</p>
 
 ## Schema Banco de Dados
 <p align="center">
