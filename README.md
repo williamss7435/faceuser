@@ -43,6 +43,17 @@
 ### Back-end 
 ```
 Criar Tabela faceuser no banco de dados
+
+Configurar os campos (username, password, host) do arquivo backend-faceuser/src/configs/databaseConf.js conforme os dados do seu banco
+    username: (o seu usuário do banco de dados),
+    password: (a senha do seu usuário no banco de dados),
+    host: (host do seu banco de dados),
+    
+    Exemplo:
+    username: 'postgres',
+    password: '12345',
+    host: 'localhost',
+    
 cd backend-faceuser
 npx sequelize-cli db:migrate (Carregar schema das tabelas)
 npm run dev
