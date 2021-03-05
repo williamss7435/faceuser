@@ -2,7 +2,7 @@
   <img src="uploads/logo-faceuser.png"/>
 </p>
 <p align="center">
-  CRUD cadrastro de usuários
+  App genérico de cadastros de usuários (CRUD)
 </p>
 <p align="center">
   <img src="uploads/faceusergif.gif"/>
