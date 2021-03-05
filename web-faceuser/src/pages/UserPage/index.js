@@ -157,7 +157,6 @@ export default function UserPage(){
                 data.id_photo = photo.data.id;
             }else {
                 toast.error("Erro ao salvar a foto do usuário!");
-                return;
             }
 
         }
